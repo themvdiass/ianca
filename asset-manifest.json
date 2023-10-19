@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/:%20https://themvdiass.github.io/ianca/static/css/main.386a13c8.css",
-    "main.js": "/:%20https://themvdiass.github.io/ianca/static/js/main.8a8156de.js",
-    "static/js/787.c63ee246.chunk.js": "/:%20https://themvdiass.github.io/ianca/static/js/787.c63ee246.chunk.js",
-    "static/media/ica6.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica6.95a546a009e2aa43ec55.jpeg",
-    "static/media/ica3.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica3.0dd93c3dbcc1841b6276.jpeg",
-    "static/media/ica2.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica2.e9c67ff75efb55b64ecb.jpeg",
-    "static/media/ica.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica.15714a7d7f2dc94c0495.jpeg",
-    "static/media/ica5.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica5.75b25247468848f1dfda.jpeg",
-    "static/media/ica4.jpeg": "/:%20https://themvdiass.github.io/ianca/static/media/ica4.45fb9ff5eb2833de8b64.jpeg",
-    "index.html": "/:%20https://themvdiass.github.io/ianca/index.html",
-    "main.386a13c8.css.map": "/:%20https://themvdiass.github.io/ianca/static/css/main.386a13c8.css.map",
-    "main.8a8156de.js.map": "/:%20https://themvdiass.github.io/ianca/static/js/main.8a8156de.js.map",
-    "787.c63ee246.chunk.js.map": "/:%20https://themvdiass.github.io/ianca/static/js/787.c63ee246.chunk.js.map"
+    "main.css": "/ianca/static/css/main.386a13c8.css",
+    "main.js": "/ianca/static/js/main.79030368.js",
+    "static/js/787.c63ee246.chunk.js": "/ianca/static/js/787.c63ee246.chunk.js",
+    "static/media/ica6.jpeg": "/ianca/static/media/ica6.95a546a009e2aa43ec55.jpeg",
+    "static/media/ica3.jpeg": "/ianca/static/media/ica3.0dd93c3dbcc1841b6276.jpeg",
+    "static/media/ica2.jpeg": "/ianca/static/media/ica2.e9c67ff75efb55b64ecb.jpeg",
+    "static/media/ica.jpeg": "/ianca/static/media/ica.15714a7d7f2dc94c0495.jpeg",
+    "static/media/ica5.jpeg": "/ianca/static/media/ica5.75b25247468848f1dfda.jpeg",
+    "static/media/ica4.jpeg": "/ianca/static/media/ica4.45fb9ff5eb2833de8b64.jpeg",
+    "index.html": "/ianca/index.html",
+    "main.386a13c8.css.map": "/ianca/static/css/main.386a13c8.css.map",
+    "main.79030368.js.map": "/ianca/static/js/main.79030368.js.map",
+    "787.c63ee246.chunk.js.map": "/ianca/static/js/787.c63ee246.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.386a13c8.css",
-    "static/js/main.8a8156de.js"
+    "static/js/main.79030368.js"
   ]
 }
