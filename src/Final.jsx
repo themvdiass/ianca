@@ -18,7 +18,7 @@ function Final() {
                     <img className="imgIca" src={ ica3 } alt="" />
                 </div>
                 <p className='words'>
-                    Algumas coisas estavam bemmm na cara, tipo, tu sabe que tu é <strong>fofinha</strong>, e eu já disse que acho esse teu jeito lindo, também gosto que as vezes tu é <strong>doidinha</strong>, fala umas coisas <strong>engraçadas</strong>, e as vezes me manda uns videos de batalha de rima que eu nunca tinha visto. Gosto quando penso que tu lembra de mim pra me mandar essas coisas. DO mesmo jeito quando faz um tempo que a gente n se fala que tu aparece mandando mensagem sem eu esperar... ❤️
+                    Algumas coisas estavam bemmm na cara, tipo, tu sabe que tu é <strong>fofinha</strong>, e eu já disse que acho esse teu jeito lindo, também gosto que as vezes tu é <strong>doidinha</strong>, fala umas coisas <strong>engraçadas</strong>, e as vezes me manda uns videos de batalha de rima que eu nunca tinha visto. Gosto quando penso que tu lembra de mim pra me mandar essas coisas. Do mesmo jeito quando faz um tempo que a gente n se fala que tu aparece mandando mensagem sem eu esperar... ❤️
                 </p>
                 <div className='box'>
                     <img className="imgIca" src={ ica4 } alt="" />
